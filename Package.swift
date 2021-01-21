@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MRCommons-iOS",
+    name: "MRCommons",
     platforms: [
       .iOS(.v13)
     ],
