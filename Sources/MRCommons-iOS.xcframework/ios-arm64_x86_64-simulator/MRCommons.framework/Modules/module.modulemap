@@ -1,0 +1,11 @@
+framework module MRCommons {
+  umbrella header "MRCommons.h"
+
+  export *
+  module * { export * }
+}
+
+module MRCommons.Swift {
+    header "MRCommons-Swift.h"
+    requires objc
+}
