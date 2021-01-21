@@ -16,7 +16,7 @@ let package = Package(
     targets: [
       .binaryTarget(
         name: "MRCommons",
-        url: "https://zipframeworks.000webhostapp.com/wp-content/uploads/zipFrameworks//MRCommons-iOS.xcframework.zip",
+        url: "https://github.com/mruiz723/MRCommons-iOS/releases/download/1.0.0/MRCommons-iOS.xcframework.zip",
         checksum: "55675fdf0136d14282f241133229501fa9b4df49efaf6e076a62bcd494bd74dc"
       )
     ]
